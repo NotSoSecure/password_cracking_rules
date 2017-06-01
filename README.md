@@ -1,7 +1,8 @@
-# password_cracking_rules
-One rule to crack all passwords. or atleast we hope so.
+# password_cracking_rule
 
-This is a supporting repo for vrious blog post's on https://www.notsosecure.com
+This is a supporting repo for various blog post's on https://www.notsosecure.com
+
+“Our super rule came out on top in all our tests, as well as others we looked at after. We’re sorry to disappoint any Lord of the Rings fans (“One ring to rule them all!”), but despite our rule name, there likely won’t ever be one rule to rule them all as other rule based attacks wouldn’t exist if there was. Password attacks should always be executed factoring in all variables, in particular the available time, hardware resources, dictionary size and algorithm.”
 
 # Credit where credit is due
 The rule file is a combination of rules from various sources

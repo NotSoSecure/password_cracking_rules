@@ -1,19 +1,19 @@
-#########################################################
-# ***     Stealthsploit's OneRuleToRuleThemAll		***	#
-#		Created using top 25% performing rules from:	#
-#														#
-#		hob064, best64, T0XICv1, toggles5,				#
-#		InsidePro-PasswordsPro, rockyou-30000,			#
-#		InsidePro-HashManager, d3ad0ne, dive,			#
-#		unix-ninja-leetspeak, generated2, d3adhob0,		#
-#		KoreLogic's Rockyou50000, _NSAKEY.v2.dive.		#
-#														#
-#		  against various leaked data breaches			#
-#														#
-#		@Stealthsploit / https://stealthsploit.com		#
-#														#						    
-# ***          	Updated: 15/05/17       			*** #
-#########################################################
+#######################################################
+# ***     Stealthsploit's OneRuleToRuleThemAll		*** #
+#		Created using top 25% performing rules from:	    #
+#														                          #
+#		hob064, best64, T0XICv1, toggles5,				        #
+#		InsidePro-PasswordsPro, rockyou-30000,			      #
+#		InsidePro-HashManager, d3ad0ne, dive,			        #
+#		unix-ninja-leetspeak, generated2, d3adhob0,		    #
+#		KoreLogic's Rockyou50000, _NSAKEY.v2.dive.	      #
+#														                          #
+#		  against various leaked data breaches			      #
+#														                          #
+#		@Stealthsploit / https://stealthsploit.com		    #
+#														                          #						    
+# ***          	Updated: 15/05/17       			    *** #
+#######################################################
 :
 ,5,6,7
 ,3,4,5
@@ -8207,7 +8207,7 @@ $o$p
 ^o^o^z
 ^o^o^w
 ^o^o^t
-^o^±^Ã^o^t
+^o^Ä…^Ä‚^o^t
 ^o^o^r^a^g^n^a^k
 ^o^o^r
 ^o^o^p^o^o^p
@@ -42456,7 +42456,7 @@ $a$f
 ^a^e^s^o^j
 ^a^e^s^l^e^h^c
 ^a^e^s^e^u^q^o^l
-^a^±^Ã^e^s^a^r^t^n^o^c
+^a^Ä…^Ä‚^e^s^a^r^t^n^o^c
 ^a^e^s
 ^a^e^r^o^k
 ^a^e^r^d^n^a

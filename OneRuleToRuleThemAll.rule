@@ -1,19 +1,19 @@
-#######################################################
-# ***     Stealthsploit's OneRuleToRuleThemAll		*** #
-#		Created using top 25% performing rules from:	    #
-#														                          #
-#		hob064, best64, T0XICv1, toggles5,				        #
-#		InsidePro-PasswordsPro, rockyou-30000,			      #
-#		InsidePro-HashManager, d3ad0ne, dive,			        #
-#		unix-ninja-leetspeak, generated2, d3adhob0,		    #
-#		KoreLogic's Rockyou50000, _NSAKEY.v2.dive.	      #
-#														                          #
-#		  against various leaked data breaches			      #
-#														                          #
-#		@Stealthsploit / https://stealthsploit.com		    #
-#														                          #						    
-# ***          	Updated: 15/05/17       			    *** #
-#######################################################
+#########################################################
+# ***		Stealthsploit's OneRuleToRuleThemAll	*** #
+#		Created using top 25% performing rules from:	#
+#														#
+#		hob064, best64, T0XICv1, toggles5,				#
+#		InsidePro-PasswordsPro, rockyou-30000,			#
+#		InsidePro-HashManager, d3ad0ne, dive,			#
+#		unix-ninja-leetspeak, generated2, d3adhob0,		#
+#		KoreLogic's Rockyou50000, _NSAKEY.v2.dive.		#
+#														#
+#		  against various leaked data breaches			#
+#														#
+#		@Stealthsploit / https://stealthsploit.com		#
+#														#
+# ***				Updated: 15/05/17				*** #
+#########################################################
 :
 ,5,6,7
 ,3,4,5
